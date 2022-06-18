@@ -1,0 +1,10 @@
+[
+  {
+    "package": "ADMMsigma",
+    "oncran": true
+  },
+  {
+    "package": "CVglasso",
+    "oncran": true
+  }
+]
