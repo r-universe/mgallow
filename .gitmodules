@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "ADMMsigma"]
-	path = ADMMsigma
-	url = https://github.com/mgallow/admmsigma
 [submodule "CVglasso"]
 	path = CVglasso
 	url = https://github.com/mgallow/cvglasso
